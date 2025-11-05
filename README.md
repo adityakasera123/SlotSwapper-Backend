@@ -89,6 +89,8 @@ Server will start on: http://localhost:5050
 | POST   | `/api/swap-request`      | Send a swap request            |
 | POST   | `/api/swap-response/:id` | Accept or reject swap          |
 
+⚠️ Note: All environment variables (e.g., MongoDB URI, JWT_SECRET) are stored securely and are not included in the repository for security reasons.
+
 
 👨‍💻 Developer
 👤 Aditya Kasera
