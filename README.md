@@ -62,6 +62,19 @@ npm install
 npm run dev
 Server will start on: http://localhost:5050
 
+## 🔗 Related Frontend (Live)
+
+🎨 **SlotSwapper Frontend (Deployed on Vercel):**  
+👉 [https://slot-swapper-frontend-xi.vercel.app/](https://slot-swapper-frontend-xi.vercel.app/)
+
+---
+
+## 🚀 Backend API (Live)
+
+🛠 **Render Deployment:**  
+👉 [https://slotswapper-backend-6214.onrender.com](https://slotswapper-backend-6214.onrender.com)
+
+
 ***** 📡 API Endpoints *****
 
 | Method | Endpoint                 | Description                    |
@@ -75,3 +88,10 @@ Server will start on: http://localhost:5050
 | GET    | `/api/swappable-slots`   | Get all swappable slots        |
 | POST   | `/api/swap-request`      | Send a swap request            |
 | POST   | `/api/swap-response/:id` | Accept or reject swap          |
+
+
+👨‍💻 Developer
+👤 Aditya Kasera
+🎓 B.Tech Student | 💻 Full Stack Developer
+🌐 Passionate about building real-world, scalable applications
+
